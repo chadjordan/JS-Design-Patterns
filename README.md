@@ -1,2 +1,2 @@
-# JS-Design-Patterns
+# JS Design Patterns
 Different module design pattern templates.
